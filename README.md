@@ -75,6 +75,7 @@
 
 
 如果对美区地址格式不熟悉，可以用 [MockAddress（美国免税州地址生成器）](https://mockaddress.com/) 查看街道、城市、州和邮编的填写示例。
+![MockAddress 美区地址格式示例](docs/assets/mockaddress.png)
 
 ## 第六步：购买 Apple 礼品卡并充值
 
